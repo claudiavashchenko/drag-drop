@@ -20,5 +20,5 @@ function dragOver(e) {
 }
 
 function dragDrop(e) {
-
+    e.target.append(taskDragged)
 }

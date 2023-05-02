@@ -18,6 +18,7 @@ body {
 .task-title h3 {
     margin: 0;
     padding: 20px;
+    color: rgb(255, 255, 255);
 }
 .task-title {
     width: 300px;
